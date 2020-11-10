@@ -67,3 +67,8 @@ CollectionBuilder documentation and general web content is licensed [Creative Co
 This license does *NOT* include any objects or images used in digital collections, which may have individually applied licenses described by a "rights" field.
 CollectionBuilder code is licensed [MIT](https://github.com/CollectionBuilder/collectionbuilder-gh/blob/master/LICENSE). 
 This license does not include external dependencies included in the `assets/lib` directory, which are covered by their individual licenses.
+
+## My notes
+Serve site from different location with more than 1GB storage (limit for GH repos):
+Digital Ocean Spaces offers 3 static sites for free
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-static-site-from-github-with-digitalocean-app-platform-quickstart
