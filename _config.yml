@@ -18,7 +18,7 @@ source-code: https://github.com/hmc4/collection-builder
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: HMC Collection Builder Test 
+title: Campbell Editorial Portfolio 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Test digital exhibit
 # description appears in meta tags and other locations
@@ -31,7 +31,7 @@ author: hmc4
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: metadata_demo 
+metadata: CampbellEditorial_metadata 
 
 ##########
 # GOOGLE SERVICES [optional!]
